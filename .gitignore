@@ -1,0 +1,7 @@
+/dist/index.d.ts
+/docs/build
+coverage
+node_modules
+.DS_Store
+.idea/
+*.log
